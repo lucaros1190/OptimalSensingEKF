@@ -1,6 +1,6 @@
 # Project Title
 
-**Author:** Benhamouche Ouassim and Luca Rossini
+**Author:** Ouassim Benhamouche and Luca Rossini
 
 ## Project Structure
 
@@ -23,4 +23,5 @@
   Defines most of the initial parameters and configuration settings used in the simulations.
 
 - **Vary_observation**  
+
   Alternative main script that allows you to vary the number of observations and select the policy by specifying its name as a string. Useful for running comparative experiments across different policies and observation settings.
