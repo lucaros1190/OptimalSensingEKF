@@ -1,4 +1,4 @@
-# Project Title
+# Script and datasets to fully reproduce the results of Benhamouche et al. (2026)
 
 **Author:** Ouassim Benhamouche and Luca Rossini
 
@@ -25,3 +25,4 @@
 - **Vary_observation**  
 
   Alternative main script that allows you to vary the number of observations and select the policy by specifying its name as a string. Useful for running comparative experiments across different policies and observation settings.
+
